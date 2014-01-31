@@ -2,6 +2,11 @@ body {
     background: #F0F0F0 !important;
 }
 
+input {
+    line-height: 1.2em !important;
+    padding: 3px 5px; !important;
+}
+
 #top-panel {
     height: 37px !important;
     background: #036;
@@ -63,11 +68,11 @@ body {
 }
 
 #search-box, #filter-box {
-    padding: 3px !important;
+    padding: 4px !important;
     box-shadow: none !important;
     background-image: none !important;
     border: 1px solid #DDD !important;
-    border-radius: 4px !important;
+    border-radius: 2px !important;
     outline: none !important;
 }
 
