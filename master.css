@@ -198,7 +198,7 @@ td.inactive:hover {
 }
 
 #side-panel {
-    background: #f0f0f0 !important;
+    background: #ffffff !important;
     padding-left: 0px !important;
     padding-right: 0px !important;
     height: 100% !important;
@@ -268,7 +268,7 @@ table {
 }
 
 td.pane, tr.build-row > td {
-    background: #ddd !important;
+    background: #ffffff !important;
     border-left: 1px solid #f0f0f0 !important;
     border-bottom: 1px solid #f0f0f0 !important;
     text-align: left;
@@ -439,7 +439,7 @@ img[src*="yellow.png"], img[src*="yellow_anime.gif"] {
 }
 
 img[src*="red.png"], img[src*="red_anime.gif"] {
-    background: #FF7373 !important;
+    background: #FF1818 !important;
 }
 
 img[src*="_anime.gif"] {
