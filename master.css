@@ -7,6 +7,10 @@ input {
     padding: 3px 5px; !important;
 }
 
+button {
+    font-size: 13px !important;
+}
+
 #top-panel {
     height: 37px !important;
     background: #036;
