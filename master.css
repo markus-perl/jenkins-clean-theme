@@ -427,43 +427,6 @@ Keyframes inprogress {
     }
 }
 
-img[src*="blue.png"], img[src*="yellow.png"], img[src*="red.png"], img[src*="grey.png"],
-img[src*="disabled.png"], img[src*="nobuilt.png"], img[src*="aborted.png"], img[src*="blue_anime.gif"], 
-img[src*="yellow_anime.gif"], img[src*="red_anime.gif"], img[src*="grey_anime.gif"],
-img[src*="disabled_anime.gif"], img[src*="nobuilt_anime.gif"], img[src*="aborted_anime.gif"] {
-    content: url('data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==');
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    padding: 1px;
-    border-radius: 50%;
-    background: #BBB !important;
-}
-
-img[src*="blue.png"], img[src*="blue_anime.gif"] {
-    background: #326ca6 !important;
-}
-
-img[src*="yellow.png"], img[src*="yellow_anime.gif"] {
-    background: #FFFB00 !important;
-}
-
-img[src*="red.png"], img[src*="red_anime.gif"] {
-    background: #FF1818 !important;
-}
-
-img[src*="_anime.gif"] {
-    -webkit-animation: inprogress 2s;
-    -webkit-animation-iteration-count: infinite;
-    -moz-animation: inprogress 2s;
-    -moz-animation-iteration-count: infinite;
-    -o-animation: inprogress 2s;
-    -o-animation-iteration-count: infinite;
-}
-
-img[src*="progress-unknown.gif"], img[src*="progress-unknown-red.gif"] {
-    width: 42px;
-    height: 10px;
-}
 
 .build-health-icon {
     padding: 0px;
