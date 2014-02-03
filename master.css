@@ -489,9 +489,7 @@ img[src*="progress-unknown.gif"], img[src*="progress-unknown-red.gif"] {
     height: 46px;
 }
 
-table.progress-bar {
-    width: 100% !important;
-}
+
 
 .build-progress-bar .middle-align {
     width: 100% !important;
